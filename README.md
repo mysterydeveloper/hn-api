@@ -19,6 +19,8 @@ In this exercise we will look at the use of the Hacker News API.
 1. Use AJAX calls to update your HTML template when the top ten links change.
 
 ## Note
+- [MDN XMLHttpRequest documentation](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest).
+
 - [Hacker News API Documentation](https://github.com/HackerNews/API).
 
 - [jQuery](https://jquery.com/).
